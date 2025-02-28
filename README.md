@@ -46,4 +46,6 @@ I’m working on scaling this up into a GPT-2 clone, and I’m exploring optimiz
 
 A huge shoutout to **Andrej Karpathy** for making complex concepts like self-attention, multi-head attention, and layer normalization so understandable — your teachings inspired this project! 🙌
 
+#Demo_pic
+![image](https://github.com/user-attachments/assets/48707d27-2fd6-4f1d-b861-f0532d42b56e)
 
